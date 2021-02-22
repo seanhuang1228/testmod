@@ -1,3 +1,7 @@
 {
+	"_comments": "=====CREATIVE TAB=====",
+	"itemGroup.myfirstmod.items": "My first item tab",
+
+	"_comments": "=========ITEM=========",
 	"item.myfirstmod.pudding": "Pudding"
 }

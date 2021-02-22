@@ -8,6 +8,7 @@ public class Pudding extends Item{
 		super((new Item.Properties())
 			.maxStackSize(1)
 			.rarity(Rarity.EPIC)
+			.group(MfmItemGroups.ITEM_TAB)
 		);
 	}
 }
